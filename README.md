@@ -1,6 +1,6 @@
-##Boas vindas ao repositório do projeto Trivia Quizz!
+## Boas vindas ao repositório do projeto Trivia Quizz!
 
-##Meus comentários
+## Meus comentários
 
 Durante o curso de desenvolvimento da Trybe, nós fizemos trabalhos em equipe de 04 pessoas.
 Neste caso em especial, fizemos um projeto de perguntas e respostas através de uma API utilizando a tecnologia React e Redux para adquirir as peguntas e respostas randomicamente.
@@ -9,13 +9,13 @@ Desde o ínicio desse projeto, me coloquei a disposição da equipe para liderar
 
 Com este projeto, tive a percepção da minha qualidade como líder, facilitador, administrador de metas e prazos, capacidade de influenciar os indivíduos em dar senso de pertencimento do projeto.
 
-##Tecnologias utilizadas:
+## Tecnologias utilizadas:
   - React
   - Redux
   - Thunk
   - CSS
 
-##Instalação do projeto localmente
+## Instalação do projeto localmente
 
 Após cada um dos passos, haverá um exemplo do comando a ser digitado para fazer o que está sendo pedido, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em cemargato@hotmail.com.
 
